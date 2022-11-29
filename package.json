@@ -1,7 +1,7 @@
 {
-  "name": "ckeditor5-custom-build",
-  "author": "CKSource",
-  "description": "A custom CKEditor 5 build made by the CKEditor 5 online builder.",
+  "name": "ckeditor5-hcap-ltc-editor",
+  "author": "Learning Technologies",
+  "description": "A custom CKEditor 5 build made by LT for the HCAP LTC Site",
   "version": "0.0.1",
   "license": "SEE LICENSE IN LICENSE.md",
   "private": true,
