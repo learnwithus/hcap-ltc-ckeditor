@@ -95,7 +95,7 @@ Editor.defaultConfig = {
 			'tableRow',
 			'mergeTableCells',
 			'tableCellProperties',
-			// 'tableProperties'
+			'tableProperties'
 		]
 	}
 };
